@@ -3,12 +3,12 @@
 CC = gcc
 CFLAGS = -Wall -Wextra -std=c99
 LDFLAGS = 
-TARGET = server
+TARGET = client
 CRYPTO_DIR = ../common
 CRYPTO_SRC = $(CRYPTO_DIR)/crypto.c
 CRYPTO_OBJ = crypto.o
-SRC = server.c
-OBJ = server.o
+SRC = client.c
+OBJ = client.o
 
 all: $(TARGET)
 
