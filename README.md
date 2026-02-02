@@ -255,8 +255,8 @@ Created as an educational resource for learning cybersecurity concepts in author
 ## Author
 
 **Vision KC**
-- GitHub: [@vision-dev1](https://github.com/vision-dev1)
-- Website: [visionkc.com.np](https://visionkc.com.np)
+- [Github](https://github.com/vision-dev1)
+- [Portfolio](https://visionkc.com.np)
 
 ---
 
