@@ -1,0 +1,33 @@
+# Compiled binaries
+client/client
+server/server
+
+# Object files
+*.o
+
+# Editor temporary files
+*.swp
+*.swo
+*~
+
+# IDE settings
+.vscode/
+.idea/
+*.code-workspace
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Core dumps
+core
+core.*
+
+# Log files
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
