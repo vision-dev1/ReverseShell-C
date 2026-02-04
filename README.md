@@ -242,10 +242,6 @@ For more detailed information, see:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Contributing
-
-This is an educational project. Contributions that improve educational value, code quality, or documentation are welcome.
-
 ## Acknowledgments
 
 Created as an educational resource for learning cybersecurity concepts in authorized lab environments.
